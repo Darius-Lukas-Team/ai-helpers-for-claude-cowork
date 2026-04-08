@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "AI Specialists",
+      "name": "ai-specialists",
       "description": "70 AI business specialists — social media, copywriting, sales, marketing, productivity, and more",
       "source": "./",
       "strict": false,
